@@ -36,7 +36,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3=3.10, hostpython3==3.10, android, sqlite3, Kivy, beautifulsoup4, bs4, certifi, gTTS, mysql-connector-python, requests, soupsieve
+requirements = python3=3.7.6, hostpython3==3.7.6, android, sqlite3, Kivy, beautifulsoup4, bs4, certifi, gTTS, mysql-connector-python, requests, soupsieve
 
 
 
@@ -65,7 +65,7 @@ orientation = portrait
 # author = © Copyright Info
 
 # change the major version of python used by the app
-osx.python_version = 3.10
+osx.python_version = 3.7.6
 
 # Kivy version to use
 osx.kivy_version = 2.2.1
